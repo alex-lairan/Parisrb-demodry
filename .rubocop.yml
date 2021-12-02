@@ -1,0 +1,12 @@
+require:
+  - rubocop-rspec
+  - rubocop-performance
+  - rubocop-rake
+
+AllCops:
+  NewCops: enable
+  Exclude:
+    - db/
+
+Documentation:
+  Enabled: false

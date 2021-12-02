@@ -1,0 +1,13 @@
+tmp/**/*
+!tmp/.keep
+!tmp/puma/.keep
+
+log/*
+!log/.keep
+
+db/*
+!db/.keep
+
+.idea
+
+!.keep
